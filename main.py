@@ -50,10 +50,10 @@ class YouTubeTranscriberApp:
             with open("transcript.txt", "w", encoding="utf-8") as f:
                 f.write(transcript)
 
-            self.append_output("\n✅ Transcript saved to transcript.txt")
+            self.append_output("\n Transcript saved to transcript.txt")
 
         except Exception as e:
-            self.append_output(f"\n❌ Error: {str(e)}")
+            self.append_output(f"\n Error: {str(e)}")
 
     def download_audio_with_ytdlp(self, url, output_dir="downloads"):
         os.makedirs(output_dir, exist_ok=True)
