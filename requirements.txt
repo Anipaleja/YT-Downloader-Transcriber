@@ -1,0 +1,4 @@
+yt-dlp==2025.05.21
+whisper==1.1.9
+torch>=2.0.0
+tk     # usually comes with Python, but no harm listing it
