@@ -89,4 +89,4 @@ yt-dlp for YouTube downloading
 
 OpenAI Whisper for transcription
 
-**Feel free to open issues or contribute!**
+**Feel free to open issues, pull requests to contribute!!**
