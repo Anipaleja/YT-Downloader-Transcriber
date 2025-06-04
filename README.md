@@ -7,7 +7,7 @@ This tool uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) to reliably download a
 
 ## Features
 
-- Download audio stream from YouTube videos (mp3 format)
+- Download audio stream from YouTube videos (mp3 format ONLY, no video)
   
 - Transcribe audio with Whisper’s base model (high-quality speech recognition)
   
