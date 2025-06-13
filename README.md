@@ -85,8 +85,8 @@ MIT License
 
 ## Acknowledgements
 
-yt-dlp for YouTube downloading
+**yt-dlp** for YouTube downloading
 
-OpenAI Whisper for transcription
+**OpenAI Whisper** for transcription
 
 **Feel free to open issues, pull requests to contribute!!**
