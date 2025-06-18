@@ -1,6 +1,6 @@
 # YT-Downloader-Transcriber
 
-An AI-powered YouTube audio downloader and transcriber with a simple GUI interface.
+An **AI-powered YouTube audio downloader and transcriber with a simple GUI interface.
 
 This tool uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) to reliably download audio from any public YouTube video, then leverages OpenAI’s [Whisper](https://github.com/openai/whisper) model to transcribe the audio into text --> all offline and without any external GPT API or wrapper.
 
